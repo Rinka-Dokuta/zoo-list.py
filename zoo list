@@ -1,0 +1,8 @@
+zoo = ["Monkey", "Elephant", "lion" , "Tiger", "Giraffe"]
+print(zoo)
+zoo.append("Panda")
+print(len(zoo))
+zoo.remove("lion")
+print(zoo)
+zoo.insert(1, 'Meerkat')
+print(zoo)
